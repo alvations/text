@@ -5,6 +5,7 @@ tqdm
 requests
 
 # Optional NLP tools
+sacremoses
 nltk
 spacy
 git+git://github.com/jekbradbury/revtok.git
